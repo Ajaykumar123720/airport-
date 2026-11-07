@@ -1,0 +1,6 @@
+{
+  "name": "Airport Runway Scheduler",
+  "description": "Smart Air Traffic Control system with automated priority-queue runway scheduling, emergency preemption, and separation conflict prevention.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
